@@ -13,9 +13,9 @@ int main(){
 			if(c*c == a*a + b*b){
 				printf("Special Pythagorean Triplet: a=%d, b= %d, c=%d\n", a, b, c);
 				printf("Final Product abc: %ld\n", (long)a*b*c);
-		
-			}
 
+			}
+			
 		}
 	}
 	
